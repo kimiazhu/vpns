@@ -1,12 +1,12 @@
 这是一个构建VPN的脚本集合。来源都是基于网上的脚本，或者经过自己微调。作为程序猿一名，这方面以实用为主。
 
-> 以下提到脚本均在Bandwagon Host上使用过。
+> 以下提到脚本均在Bandwagon Host上验证过
 
 ## 脚本列表
 
-- cisco_ipsec.sh, 适用于CentOS6和Ubuntu系统，在CentOS 6.5 x86上验证过，支持Bandwagon host
-- pptp.sh, 适用于CentOS6和Ubuntu系统，在CentOS 6.5 x86上验证过，支持Bandwagon host
-- ikev2.sh, 适用于CentOS6和Ubuntu系统，在CentOS 6.5 x86上验证过，但是x64系统有问题未能成功，支持Bandwagon host。部分公司内网不能正常使用。
+- cisco_ipsec.sh, 适用于CentOS6和Ubuntu系统，在CentOS 6.5 x86上验证过
+- pptp.sh, 适用于CentOS6和Ubuntu系统，在CentOS 6.5 x86上验证过
+- ikev2.sh, 适用于CentOS6和Ubuntu系统，在CentOS 6.5 x86上验证过，但是x64系统有问题未能成功。部分公司内网不能正常使用。
 
 ## 注意
 
