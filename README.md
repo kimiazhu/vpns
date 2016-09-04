@@ -24,7 +24,7 @@ Mac系统如果要连接`IKEv2`，需要安装证书，下载`my_key/ca.cert.pem
 
 #### l2tp_ipsec.sh
 
-这个脚本包含了L2TP/IPSec, IKEV1, IKEV2, 以及 Cisci IPSec在内的几个VPN方案，实用StrongSwan原理上支持Bandwagon，我还没有尝试过。源于[这里](https://github.com/philpl/setup-strong-strongswan)
+这个脚本包含了L2TP/IPSec, IKEV1, IKEV2, 以及 Cisco IPSec在内的几个VPN方案，实用StrongSwan原理上支持Bandwagon，适用Ubuntu。源于[这里](https://github.com/philpl/setup-strong-strongswan) BandwagonHost上测试Ubuntu 14没有成功。
 
 ## 注意
 
